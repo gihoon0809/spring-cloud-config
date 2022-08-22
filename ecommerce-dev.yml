@@ -1,0 +1,6 @@
+token:
+  expiration_time: 864000000
+  secret: my_token_dev
+
+geteway:
+  ip: 127.0.0.1
